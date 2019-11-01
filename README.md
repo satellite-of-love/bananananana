@@ -1,5 +1,5 @@
 # bananananana
-my new project that is now very old.
+my new project that is now very old. Except for this file
 
 Based on seed project `satellite-of-love:spring-rest-seed`
 
